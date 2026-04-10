@@ -1,0 +1,29 @@
+{
+  "app_name": "mobile-app-react-native",
+  "version": "1.0.0",
+  "timestamp": "2024-10-27T10:00:00Z",
+  "status": "healthy",
+  "environment": "production",
+  "device_id": "unique_device_identifier",
+  "os_version": "Android 13",
+  "memory_usage": {
+    "total": 8000,
+    "used": 4000,
+    "unit": "MB"
+  },
+  "disk_space": {
+    "total": 64,
+    "available": 32,
+    "unit": "GB"
+  },
+  "network_connectivity": "wifi",
+  "battery_level": 85,
+  "location": {
+    "latitude": 34.0522,
+    "longitude": -118.2437
+  },
+  "custom_data": {
+    "user_id": "user123",
+    "session_id": "session456"
+  }
+}
